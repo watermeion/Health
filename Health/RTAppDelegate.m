@@ -27,7 +27,6 @@
 //    //将y座标移到状态栏下
 //    mainView.frame=mainViewFrame;
 //    [self.window addSubview:mainView];
-    
     //self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     return YES;

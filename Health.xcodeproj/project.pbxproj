@@ -555,6 +555,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		045FDBE5192A1DE30070F1AC /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Utilities;
+			sourceTree = "<group>";
+		};
 		0469EB5F192885AE00388022 /* ThirdTableView */ = {
 			isa = PBXGroup;
 			children = (
@@ -882,6 +889,7 @@
 		ADAA5DD5192341090040ED10 /* Health */ = {
 			isa = PBXGroup;
 			children = (
+				045FDBE5192A1DE30070F1AC /* Utilities */,
 				ADAA5DDE192341090040ED10 /* RTAppDelegate.h */,
 				ADAA5DDF192341090040ED10 /* RTAppDelegate.m */,
 				0469EB5F192885AE00388022 /* ThirdTableView */,
